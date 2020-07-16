@@ -1,0 +1,28 @@
+- model: api.Beneficio
+  pk: 1
+  fields:
+      paciente: 1
+      produto: 1
+      quantidade: 7
+      periodo: 7
+- model: api.Beneficio
+  pk: 2
+  fields:
+      paciente: 1
+      produto: 2
+      quantidade: 1
+      periodo: 7
+- model: api.Beneficio
+  pk: 3
+  fields:
+      paciente: 1
+      produto: 3
+      quantidade: 1
+      periodo: 7
+- model: api.Beneficio
+  pk: 4
+  fields:
+      paciente: 2
+      produto: 1
+      quantidade: 7
+      periodo: 7

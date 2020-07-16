@@ -1,0 +1,41 @@
+- model: api.Item
+  pk: 1
+  fields:
+    pedido: 1
+    produto: 1
+    quantidade: 2
+
+- model: api.Item
+  pk: 2
+  fields:
+    pedido: 2
+    produto: 2
+    quantidade: 3
+
+- model: api.Item
+  pk: 3
+  fields:
+    pedido: 3
+    produto: 1
+    quantidade: 1
+
+- model: api.Item
+  pk: 4
+  fields:
+    pedido: 3
+    produto: 2
+    quantidade: 1
+
+- model: api.Item
+  pk: 5
+  fields:
+    pedido: 3
+    produto: 3
+    quantidade: 1
+
+- model: api.Item
+  pk: 6
+  fields:
+    pedido: 3
+    produto: 4
+    quantidade: 1

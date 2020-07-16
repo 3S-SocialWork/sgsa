@@ -1,0 +1,100 @@
+- model: api.TipoTratamento
+  pk: 1
+  fields:
+      descricao: Câncer Anal
+- model: api.TipoTratamento
+  pk: 2
+  fields:
+      descricao: Câncer de Boca
+- model: api.TipoTratamento
+  pk: 3
+  fields:
+      descricao: Câncer de Esôfago
+- model: api.TipoTratamento
+  pk: 4
+  fields:
+      descricao: Câncer de Estômago
+- model: api.TipoTratamento
+  pk: 5
+  fields:
+      descricao: Câncer de Fígado
+- model: api.TipoTratamento
+  pk: 6
+  fields:
+      descricao: Câncer de Intestino
+- model: api.TipoTratamento
+  pk: 7
+  fields:
+      descricao: Câncer de Laringe
+- model: api.TipoTratamento
+  pk: 8
+  fields:
+      descricao: Câncer de Mama
+- model: api.TipoTratamento
+  pk: 9
+  fields:
+      descricao: Câncer de Ovário
+- model: api.TipoTratamento
+  pk: 10
+  fields:
+      descricao: Câncer de Pâncreas
+- model: api.TipoTratamento
+  pk: 11
+  fields:
+      descricao: Câncer de Pele (Melanoma)
+- model: api.TipoTratamento
+  pk: 12
+  fields:
+      descricao: Câncer de Pele (Não Melanoma)
+- model: api.TipoTratamento
+  pk: 13
+  fields:
+      descricao: Câncer de Pênis
+- model: api.TipoTratamento
+  pk: 14
+  fields:
+      descricao: Câncer de Próstata
+- model: api.TipoTratamento
+  pk: 15
+  fields:
+      descricao: Câncer de Pulmão
+- model: api.TipoTratamento
+  pk: 16
+  fields:
+      descricao: Câncer de Testículo
+- model: api.TipoTratamento
+  pk: 17
+  fields:
+      descricao: Câncer de Tireoide
+- model: api.TipoTratamento
+  pk: 18
+  fields:
+      descricao: Câncer do Colo do Útero
+- model: api.TipoTratamento
+  pk: 19
+  fields:
+      descricao: Câncer do Corpo do Útero
+- model: api.TipoTratamento
+  pk: 20
+  fields:
+      descricao: Câncer do Sistema Nervoso Central
+- model: api.TipoTratamento
+  pk: 21
+  fields:
+      descricao: Câncer Infato Juvenil
+- model: api.TipoTratamento
+  pk: 22
+  fields:
+      descricao: Câncer de Bexiga
+- model: api.TipoTratamento
+  pk: 23
+  fields:
+      descricao: Leucemia
+- model: api.TipoTratamento
+  pk: 24
+  fields:
+      descricao: Linfoma de Hodgkin
+- model: api.TipoTratamento
+  pk: 25
+  fields:
+      descricao: Linfoma Não Hodgkin

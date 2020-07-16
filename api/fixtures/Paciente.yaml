@@ -1,0 +1,80 @@
+- model: api.Paciente
+  pk: 1
+  fields:
+      nome: Teste Paciente Ativo
+      telefone: 3233721913
+      tel_contato: 3233721913
+      num_doc: 3233721913
+      situacao: ATIVO
+      data_nascimento: 2020-04-01
+      data_cadastro: 2020-04-24
+      email: paciente@teste.com
+      tipo_tratamento_id: 8
+      sexo: F
+      cep: 36307330
+      logradouro: R. Min. Gabriel Passos
+      complemento: 232
+      bairro: Centro
+      cidade: Sao Joao Del-Rei
+      uf: MG
+      obs: lorem ipsum
+- model: api.Paciente
+  pk: 2
+  fields:
+      nome: Teste Paciente de Alta Médica
+      telefone: 3233721913
+      tel_contato: 3233721913
+      num_doc: 3233721913
+      situacao: DE_ALTA
+      data_nascimento: 2020-04-01
+      data_cadastro: 2020-04-24
+      email: paciente@teste.com
+      tipo_tratamento_id: 9
+      sexo: N
+      cep: 36307330
+      logradouro: R. Min. Gabriel Passos
+      complemento: 232
+      bairro: Centro
+      cidade: Sao Joao Del-Rei
+      uf: MG
+      obs: lorem ipsum
+- model: api.Paciente
+  pk: 3
+  fields:
+      nome: Teste Paciente Inativo
+      telefone: 3233721913
+      tel_contato: 3233721913
+      num_doc: 3233721913
+      situacao: INATIVO
+      data_nascimento: 2020-04-01
+      data_cadastro: 2020-04-24
+      email: paciente@teste.com
+      tipo_tratamento_id: 7
+      sexo: N
+      cep: 36307330
+      logradouro: R. Min. Gabriel Passos
+      complemento: 232
+      bairro: Centro
+      cidade: Sao Joao Del-Rei
+      uf: MG
+      obs: lorem ipsum
+- model: api.Paciente
+  pk: 4
+  fields:
+      nome: Teste Paciente Falecido
+      telefone: 3233721913
+      tel_contato: 3233721913
+      num_doc: 3233721913
+      situacao: FALECIDO
+      data_nascimento: 2020-04-01
+      data_cadastro: 2020-04-24
+      email: paciente@teste.com
+      tipo_tratamento_id: 22
+      sexo: M
+      cep: 36307330
+      logradouro: R. Min. Gabriel Passos
+      complemento: 232
+      bairro: Centro
+      cidade: Sao Joao Del-Rei
+      uf: MG
+      obs: lorem ipsum

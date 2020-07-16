@@ -1,0 +1,20 @@
+- model: api.Produto
+  pk: 1
+  fields:
+      descricao: Leite
+      especificacao: LT
+- model: api.Produto
+  pk: 2
+  fields:
+      descricao: Fralda Geriatrica G
+      especificacao: PCT
+- model: api.Produto
+  pk: 3
+  fields:
+      descricao: Scalp
+      especificacao: UN
+- model: api.Produto
+  pk: 4
+  fields:
+      descricao: Esparadrapo
+      especificacao: UN
